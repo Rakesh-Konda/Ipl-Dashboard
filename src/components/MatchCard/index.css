@@ -1,0 +1,36 @@
+/* Write your CSS here */
+.ul {
+  list-style-type: none;
+}
+.div {
+  margin: 10px;
+  background-color: #0f172a;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  height: 250px;
+}
+.log {
+  width: 60px;
+  height: 60px;
+  margin: 10px;
+}
+.hhh {
+  font-size: 18px;
+  color: white;
+}
+.ppp {
+  color: white;
+  margin: 10px;
+}
+.green {
+  color: green;
+  margin: 10px;
+}
+.red {
+  color: red;
+  margin: 10px;
+}

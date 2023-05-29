@@ -1,0 +1,49 @@
+/* Write your CSS here */
+.h {
+  color: white;
+}
+.cen {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+.bg {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-lg-bg.png');
+  height: 200vh;
+}
+.img {
+  width: 50px;
+  height: 50px;
+  margin: 10px;
+}
+.ccc {
+  display: flex;
+  justify-content: center;
+}
+.hhh {
+  color: white;
+  margin: 10px;
+}
+.ul {
+  list-style-type: none;
+  display: flex;
+
+  flex-wrap: wrap;
+}
+.ii {
+  width: 50px;
+  height: 50px;
+  margin: 20px;
+}
+.kk {
+  display: flex;
+  border: 2px solid white;
+  margin: 10px;
+  width: 300px;
+  height: 150px;
+  border-radius: 10px;
+}
+.cv {
+  display: flex;
+  justify-content: center;
+}

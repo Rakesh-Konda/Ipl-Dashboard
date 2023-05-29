@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.bhh {
+  background-color: #1e293b;
+  margin: 10px;
+}
+.head {
+  color: white;
+  font-size: 20px;
+}
+.p {
+  color: white;
+}
+.middle {
+  margin: 10px;
+  display: flex;
+  justify-content: space-around;
+}
+.logo {
+  width: 100px;
+  height: 100px;
+}

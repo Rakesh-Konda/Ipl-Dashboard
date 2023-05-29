@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.hf {
+  color: white;
+}
+.not {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-lg-bg.png');
+  height: 100vh;
+}
+.ccc {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
